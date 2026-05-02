@@ -27,7 +27,7 @@
 
 <!-- ================= TECH STACK ================= -->
 
-## ⚙️ Core Tech Stack (Primary Focus)
+## ⚙️ Core Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,linux,git" />
@@ -55,7 +55,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 AI-Based Mini Project (Upcoming)
+### 🔹 AI-Based Mini Project 
 
 ```bash
 > Applying ML algorithms
@@ -63,7 +63,7 @@
 > Model training & evaluation
 ```
 
-### 🔹 Full Stack Web Project (Upcoming)
+### 🔹 Full Stack Web Project 
 
 ```bash
 > Frontend + Backend integration
