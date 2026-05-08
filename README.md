@@ -120,7 +120,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/vineet-manage">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vineet%20Manage-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:vineetmanage@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
