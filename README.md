@@ -1,141 +1,78 @@
-<!-- ================= HEADER ================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Vineet%20M&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+# 𝚅𝙸𝙽𝙴𝙴𝚃 𝙼𝙰𝙽𝙰𝙶𝙴
 
-<h1 align="center">Hi 👋, I'm Vineet</h1>
-<h3 align="center">💻 Software Developer | 🤖 AI/ML Learner | 🔐 Cybersecurity Enthusiast</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2500&color=00F7B6&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Software+Development+%7C+Digital+Forensics;Building+projects+that+solve+real+problems." />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&lines=AI%2FML+Explorer;Full+Stack+Learner;Problem+Solver;Building+Real+Projects..." />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,mongodb,docker,linux,git&perline=10" />
+
+</div>
 
 ---
-
-<!-- ================= ABOUT ================= -->
-
-## 🧠 About Me
-
-* 🎓 B.Tech CSE (Cybersecurity & Forensics)
-* 💻 Strong interest in **Programming, Data Structures & AI/ML**
-* 🤖 Currently learning **Machine Learning & Full Stack Development**
-* 🔐 Exploring **Cybersecurity (Web Security & Network Analysis)**
-* 🎯 Goal: Become a **Software Engineer with strong security expertise**
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## ⚙️ Core Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,linux,git" />
-</p>
-
----
-
-<!-- ================= AI/ML ================= -->
-
-## 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures-Strong-important?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-Active-success?style=for-the-badge" />
-</p>
-
-* 📊 Working on ML fundamentals (Supervised Learning, Models)
-* 🧠 Practicing DSA regularly
-* ⚡ Interested in real-world AI applications
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-### 🔹 AI-Based Mini Project 
 
 ```bash
-> Applying ML algorithms
-> Real-world dataset analysis
-> Model training & evaluation
-```
+> whoami
 
-### 🔹 Full Stack Web Project 
+Vineet Manage
 
-```bash
-> Frontend + Backend integration
-> API handling
-> User authentication (planned)
+B.Tech Computer Science Engineering
+Cybersecurity & Forensics
+
+Passionate about building practical software,
+security tools and exploring modern technologies.
 ```
 
 ---
 
-<!-- ================= CYBERSECURITY ================= -->
+## ⚡ Featured
 
-## 🔐 Cybersecurity 
+<table>
+<tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-Scanning-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BurpSuite-Web%20Security-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-Network-blue?style=for-the-badge" />
-</p>
+<td width="33%" align="center">
 
-* 🔍 Learning **Vulnerability Assessment & Penetration Testing**
-* 🌐 Practicing **Web Security Testing**
-* 🛠️ Tools: Nmap, Burp Suite, Wireshark
+### 🛡️
 
----
+**AI Phishing Detector**
 
-<!-- ================= STATS ================= -->
+Python • ML • Flask
 
-## 📊 GitHub Analytics
+</td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vineet-9&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-9&layout=compact&theme=tokyonight" />
-</p>
+<td width="33%" align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+### 🤖
 
----
+**Deepfake Detection**
 
-<!-- ================= TROPHIES ================= -->
+AI • Computer Vision
 
-## 🏆 Achievements
+</td>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vineet-9&theme=algolia&no-frame=true" />
-</p>
+<td width="33%" align="center">
 
----
+### 🔍
 
-<!-- ================= CONTACT ================= -->
+**Security Toolkit**
 
-## 📫 Connect With Me
+Python Automation
 
-<p align="center">
-  <a href="https://linkedin.com/in/vineet-manage">
-    <img src="https://img.shields.io/badge/LinkedIn-Vineet%20Manage-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:vineetmanage@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<div align="center">
 
-<p align="center">
-  💡 "Code. Learn. Build. Repeat."
-</p>
+<a href="https://linkedin.com/in/vineet-manage">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
-</p>
+<a href="mailto:vineetmanage@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+</div>
+</div>
