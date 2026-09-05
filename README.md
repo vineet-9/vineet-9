@@ -29,7 +29,7 @@ security tools and exploring modern technologies.
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🛡️
 
@@ -39,7 +39,7 @@ Python • ML • Flask
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🤖
 
@@ -49,13 +49,23 @@ AI • Computer Vision
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🔍
 
 **Security Toolkit**
 
 Python Automation
+
+</td>
+
+<td width="25%" align="center">
+
+### 
+
+**SentinelX**
+
+AI • Python
 
 </td>
 
