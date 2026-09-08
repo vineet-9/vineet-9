@@ -29,7 +29,7 @@ security tools and exploring modern technologies.
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 🛡️
 
@@ -39,7 +39,7 @@ Python • ML • Flask
 
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 🤖
 
@@ -49,7 +49,7 @@ AI • Computer Vision
 
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 🔍
 
@@ -59,13 +59,23 @@ Python Automation
 
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 
-### 
+### 🤖
 
 **SentinelX**
 
 AI • Python
+
+</td>
+
+<td width="20%" align="center">
+
+### 🚨
+
+**AegisLab**
+
+Python + Docker
 
 </td>
 
