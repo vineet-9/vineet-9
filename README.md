@@ -65,13 +65,11 @@ AegisLab
 Python • Docker
 
 </td> </tr> </table>
-📊 Contribution Matrix
-<div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" width="100%" />
-
-</div>
 🧩 Tech Stack
+
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,mongodb,docker,linux,git,github,vscode&perline=12" /> </div>
+
 🌐 Connect
-<div align="center"> <a href="https://linkedin.com/in/vineet-manage"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:vineetmanage@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div> ```
+
+<div align="center"> <a href="https://linkedin.com/in/vineet-manage"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:vineetmanage@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div> 
